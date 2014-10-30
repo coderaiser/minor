@@ -16,6 +16,7 @@ minor <version>
 ```
 
 For example: `minor patch` would increment patch section of version.
+Get version from current `package.json`: `minor version`.
 
 ## Use as module
 
