@@ -1,0 +1,15 @@
+{
+  "name": "minor",
+  "version": "1.0.0",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "Semantic versioning tool. Apply major, minor and patch to version.",
+  "homepage": "http://github.com/coderaiser/minor",
+  "main": "lib/minor.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/minor.git"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}
