@@ -5,15 +5,11 @@
   "description": "Semantic versioning tool. Apply major, minor and patch to version.",
   "homepage": "http://github.com/coderaiser/minor",
   "main": "lib/minor.js",
-  "bin": {
-    "minor": "bin/minor.js"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/coderaiser/minor.git"
   },
   "dependencies": {
-    "util-io": "~1.5.0"
   },
   "license": "MIT"
 }
