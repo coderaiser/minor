@@ -10,5 +10,10 @@
     "url": "git://github.com/coderaiser/minor.git"
   },
   "dependencies": {},
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.9",
+    "gulp-mocha": "~1.1.1",
+    "should": "~4.1.0"
+  }
 }
