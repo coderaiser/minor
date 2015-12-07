@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-mocha": "~1.1.1",
+    "gulp-mocha": "^2.2.0",
     "should": "~4.1.0"
   }
 }
